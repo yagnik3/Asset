@@ -1,5 +1,5 @@
 { 
-	"IsPos1":"a", 
-	"IsPos2":"b", 
-	"IsPos3":"c"
+	"IsPos1":"True", 
+	"IsPos2":"Flase", 
+	"IsPos3":"True"
 }
